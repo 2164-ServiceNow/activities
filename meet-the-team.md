@@ -13,7 +13,7 @@ Each of you will create a short introduction about yourself and use Git to add i
 **Setup:**
 
 *   Make sure you have a terminal or command prompt available on your computer.
-*   You'll need a GitHub account. **Please share this with your trainer via email (charles.jester@revature.com) to be added to our Organization on GitHub to allow pushing of your file.
+*   You'll need a GitHub account. **Please share this with your trainer via email (charles.jester@revature.com) to be added to our Organization on GitHub to allow pushing of your file.**
 
 **Steps:**
 
