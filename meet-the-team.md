@@ -63,14 +63,14 @@ Each of you will create a short introduction about yourself and use Git to add i
         git commit -m "Add introduction file"
         ```
 
-4.  **Pushing the Branch (5 minutes):**
+4.  **Pushing the Branch:**
     *   The `git push` command uploads your branch to the remote repository on GitHub:
 
         ```bash
         git push
         ```
 
-5.  **Creating a Pull Request (PR) (5 minutes):**
+5.  **Creating a Pull Request (PR):**
     *   Go to the `meet-the-team` repository on GitHub in your web browser.
     *   You should see a prompt to compare and create a pull request for your branch. Click it.
     *   Write a short description for your PR (e.g., "Adding my introduction").
