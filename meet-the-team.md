@@ -43,8 +43,8 @@ Each of you will create a short introduction about yourself and use Git to add i
         ```
 
 3.  **Creating and Committing a File:**
-    *   Create a new text file named `introduction-your-name.txt` (e.g., `introduction-john-doe.txt`). You can do this using a text editor or from the command line (e.g., `touch introduction-your-name.txt` on macOS/Linux or `type nul > introduction-your-name.txt` on Windows).
-    *   Write a short introduction about yourself in the file (name, department, a fun fact, etc.).
+    *   Create a new text file named `introduction-your-name.txt` (e.g., `introduction-john-doe.txt`). You can do this using a text editor or from the command line (e.g., `touch introduction-your-name.txt` on macOS/Linux or `type nul > introduction-your-name.txt` on Windows). [Example: introduction-charles-jester.txt](https://github.com/2164-ServiceNow/meet-the-team/blob/main/introduction-charles-jester.txt)
+    *   Write a short introduction about yourself in the file (name, where are you from, a fun fact, etc.).
     *   The `git add <file>` command stages changes for commit. To add your new file, use:
 
         ```bash
