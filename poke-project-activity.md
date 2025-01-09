@@ -28,6 +28,7 @@ This activity will have you explore the PokeAPI and practice using different met
 - Look through the code in `queryPokemon.js` to obtain examples for each of the following forms of requesting information from an API.
 - Generate a file for you user story that's named either `queryItems.js` or `queryMoves.js` to provided functionality.
 - Add your new JavaScript file to the `index.html` with the script element
+- Add a button to run your function from your JavaScript file you created.
 
     ### Implement below:
    1. **XMLHttpRequest:**
